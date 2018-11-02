@@ -5,3 +5,5 @@ Tested solution with test cases written in main() in App.java, and test.csv for 
 Used merge intervals, binary search, and sorting to optimize performance.
 
 With more time, I'd have implemeneted a faster sorting algorithm, i.e. merge sort. 
+
+Interest: The DATA Team.
