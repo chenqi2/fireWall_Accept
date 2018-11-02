@@ -4,4 +4,4 @@ Main method resides in App.java. Created Firewall.java, ipRange.java, and portRa
 Tested solution with test cases written in main() in App.java, and test.csv for reading rules
 Used merge intervals, binary search, and sorting to optimize performance.
 
-If had more time, I'd have implemeneted a faster sorting algorithm, i.e. merge sort. 
+With more time, I'd have implemeneted a faster sorting algorithm, i.e. merge sort. 
